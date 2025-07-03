@@ -12,8 +12,8 @@
 * [OSINT и поиск информации в **Одноклассниках**](https://github.com/OSINT-searcher/OSINT_i_probiv_Odnoklassniki) - подборка инструментов для поиска всего связанного с соцсетью Одноклассники.
 * [OSINT и поиск информации в **Instagram**](https://github.com/OSINT-searcher/OSINT_i_probiv_Instagram) - ряд сервисов позволяющих найходить информацию по Инстаграм профилям, а также наоборот, искать профили персон.
 * [OSINT и поиск информации в **Facebook**](https://github.com/OSINT-searcher/OSINT_i_probiv_Facebook) - продукты и инструменты для поиска в ФБ и нахождения профилей пользователей.
-* [OSINT и поиск информации в **МойМир**](https://github.com/OSINT-searcher/OSINT_i_probiv_MoyMir) - гайд и инструменты по поиску и добыче данных в соцсети МойМир.
-* [OSINT и поиск информации в **TikTok**]() - в процессе написания
+* [OSINT и поиск информации в **МойМир**](https://github.com/OSINT-searcher/OSINT_i_probiv_MoyMir) - гайды и инструменты по поиску и добыче данных в соцсети МойМир.
+* [OSINT и поиск информации в **TikTok**](https://github.com/OSINT-searcher/OSINT_i_probiv_TikTok) - программы и сервисы для анализа и поиска данных в ТикТок.
 * [OSINT и поиск информации в **Linkedin**]() - в процессе написания
 * [OSINT и поиск информации в **X (ex.Twitter)**]() - в процессе написания
 
