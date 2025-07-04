@@ -15,7 +15,7 @@
 * [OSINT и поиск информации в **МойМир**](https://github.com/OSINT-searcher/OSINT_i_probiv_MoyMir) - гайды и инструменты по поиску и добыче данных в соцсети МойМир.
 * [OSINT и поиск информации в **TikTok**](https://github.com/OSINT-searcher/OSINT_i_probiv_TikTok) - программы и сервисы для анализа и поиска данных в ТикТок.
 * [OSINT и поиск информации в **Linkedin**](https://github.com/OSINT-searcher/OSINT_i_probiv_Linkedin) - набор продуктов для поиска в Linkedin и работы с профилями пользователей.
-* [OSINT и поиск информации в **X (ex.Twitter)**]() - в процессе написания
+* [OSINT и поиск информации в **X (ex.Twitter)**](https://github.com/OSINT-searcher/OSINT_i_probiv_X-Twitter) - список методов и продуктов для анализа и поиска в Twitter.
 
 ## Инструменты для поиска информации в мессенджерах
 Подборка гайдов по OSINT и поиску информации в мессенджерах и системах обмена сообщениями:
