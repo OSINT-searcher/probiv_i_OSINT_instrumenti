@@ -22,7 +22,7 @@
 * [OSINT и поиск информации в **Телеграм**](https://github.com/OSINT-searcher/OSINT_i_probiv_Telegram) - список ботов, сервисов и инструкций по поиску данных в Telegram.
 * [OSINT и поиск информации в **WhatsApp**](https://github.com/OSINT-searcher/OSINT_i_probiv_WhatsApp) - сервисы, программы и советы по поиску и анализу ВатсАпп.
 * [OSINT и поиск информации в **Discord**](https://github.com/OSINT-searcher/OSINT_i_probiv_Discord) - каталог инструментов и решений для анализа и работы с Дискорд.
-* [OSINT и поиск информации в **ICQ**]() - в процессе написания
+* [OSINT и поиск информации в **ICQ**](https://github.com/OSINT-searcher/OSINT_i_probiv_ICQ) - гайды и проги для поиска данных о владельцах Аськи (ICQ).
 
 ## Тематические подборки поиска информации
 Список тематических инструментов и наборов поиска информации по узким направлениям:
