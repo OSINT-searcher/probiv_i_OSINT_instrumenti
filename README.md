@@ -14,6 +14,7 @@
 
 ## ТОП статей по пробиву, поиску и OSINT
 Список лучших статей по OSINT и поиску, которые пользуются особой популярностью:
+* ➡️[Глаз Бога бесплатно и похожие Телеграм боты](https://github.com/OSINT-searcher/glaz_boga_besplatno)
 * ➡️[Аналоги Глаза Бога и похожие боты](https://github.com/OSINT-searcher/analogi_Glaza_Boga)
 * ➡️[Лучшие инструменты для соцсетей и мессенджеров](https://github.com/OSINT-searcher/probiv_socsetei_i_messengerov)
 
