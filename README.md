@@ -53,6 +53,7 @@
 * ➡️[OSINT и поиск информации в **Играх**](https://github.com/OSINT-searcher/OSINT_i_probiv_v_igrah-GAMEINT) - лучшие сервисы для поиска игровых данных и игровых профилей пользователей.
 * ➡️[OSINT и поиск информации по **Фотографиям**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_foto) - набор инструментов для пробива и поиска по Фото (персоны и локации).
 * ➡️[OSINT и поиск информации по **Архивам**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_arhivam) - поисковые сервисы для архивов и доступа к архивным данным.
+* ➡️[OSINT и поиск информации по **Сайтам**](https://github.com/OSINT-searcher/OSINT_i_probiv_saita) - инструменты для пробива сайтов и поиска информации на сайтах.
 * ➡️[OSINT и поиск информации с **API для разработки**](https://github.com/OSINT-searcher/poisk_informacii_s_API) - лучший набор API-продуктов и сервисов для поиска и анализа данных.
 * ➡️[OSINT и поиск информации с **законными инструментами**](https://github.com/OSINT-searcher/zakonniy_probiv_informacii) - инструменты и сервисы по законному пробиву информации.
 
