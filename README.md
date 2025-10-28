@@ -26,6 +26,7 @@
 * ➡️[OSINT и поиск информации по **ФИО**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_FIO) - прикладные способы и сервисы поиска информации по ФИО.
 * ➡️[OSINT и поиск информации по **Автомобилю**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_avto_i_nomeru) - программные инструменты и сервисы пробива Авто (госуномер, VIN и прочее).
 * ➡️[OSINT и поиск информации по **ИНН**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_INN) - сервисы и гайды для поиска информации по ИНН физ и юрлиц.
+* ➡️[OSINT и поиск информации по **ИП**](https://github.com/OSINT-searcher/OSINT_i_probiv_individualnih_predprenimatelei) - набор решений для поиска данных по Индивидуальным Предпринимателям.
 * ➡️[OSINT и поиск информации по **Нику (никнейму)**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_niku) - каталог программ, ботов и сервисов поиска по Никнеймам (Nicknames).
 * ➡️[OSINT и поиск информации по **IP**](https://github.com/OSINT-searcher/OSINT_i_probiv_po_IP) - каталог продуктов и гайдов по поиску и пробиву IP адресов.
 
