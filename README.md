@@ -107,3 +107,4 @@
 Прочие наборы поиска информации, пробива и OSINT:
 * ➡️[Бесплатные скины и кейсы CS2](https://github.com/OSINT-searcher/besplatnie_skini_CS2)
 * ➡️[OSINT и пробив бывшей или бывшего](https://github.com/OSINT-searcher/probit_bivshuyu)
+* ➡️[OSINT и деанон Телеграм аккаунтов](https://github.com/OSINT-searcher/OSINT_i_deanon_Telegram)
