@@ -109,3 +109,4 @@
 * ➡️[Бесплатные скины и кейсы CS2](https://github.com/OSINT-searcher/besplatnie_skini_CS2)
 * ➡️[OSINT и пробив бывшей или бывшего](https://github.com/OSINT-searcher/probit_bivshuyu)
 * ➡️[OSINT и деанон Телеграм аккаунтов](https://github.com/OSINT-searcher/OSINT_i_deanon_Telegram)
+* ➡️[Как платить криптой в России по СБП](https://github.com/OSINT-searcher/oplata_kriptoi_po_QR_ili_SBP)
