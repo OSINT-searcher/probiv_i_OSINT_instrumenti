@@ -114,3 +114,4 @@
 * ➡️[OSINT и деанон Телеграм аккаунтов](https://github.com/OSINT-searcher/OSINT_i_deanon_Telegram)
 * ➡️[Как платить криптой в России по СБП](https://github.com/OSINT-searcher/oplata_kriptoi_po_QR_ili_SBP)
 * ➡️[Проверка сотрудника или поиск негатива на работника](https://github.com/OSINT-searcher/proverka_sotrudnika)
+* ➡️[Проверка работодателя или поиск негатива на компанию](https://github.com/OSINT-searcher/proverka_rabotodatela)
