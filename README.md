@@ -41,6 +41,7 @@
 * ➡️[OSINT и поиск информации в **Одноклассниках**](https://github.com/OSINT-searcher/OSINT_i_probiv_Odnoklassniki) - инструменты для поиска в Одноклассники.
 * ➡️[OSINT и поиск информации в **Instagram**](https://github.com/OSINT-searcher/OSINT_i_probiv_Instagram) - сервисы нахождения инфы по Инстаграм и их владельцам.
 * ➡️[OSINT и поиск информации в **Facebook**](https://github.com/OSINT-searcher/OSINT_i_probiv_Facebook) - продукты для поиска в ФБ и нахождения профилей.
+* ➡️[OSINT и поиск информации в **YouTube**](https://github.com/OSINT-searcher/OSINT_i_probiv_YouTube) - методики анализа и поиска информации по Ютубу.
 * ➡️[OSINT и поиск информации в **МойМир**](https://github.com/OSINT-searcher/OSINT_i_probiv_MoyMir) - гайды и инструменты по поиску данных в соцсети МойМир.
 * ➡️[OSINT и поиск информации в **TikTok**](https://github.com/OSINT-searcher/OSINT_i_probiv_TikTok) - программы и сервисы для анализа и поиска данных в ТикТок.
 * ➡️[OSINT и поиск информации в **Linkedin**](https://github.com/OSINT-searcher/OSINT_i_probiv_Linkedin) - способы поиска в Linkedin и работы с профилями.
