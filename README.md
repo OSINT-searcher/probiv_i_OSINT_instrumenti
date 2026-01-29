@@ -118,5 +118,6 @@
 * ➡️[Проверка сотрудника или поиск негатива на работника](https://github.com/OSINT-searcher/proverka_sotrudnika)
 * ➡️[Проверка работодателя или поиск негатива на компанию](https://github.com/OSINT-searcher/proverka_rabotodatela)
 * ➡️[Глаз Бога бесплатно и похожие Телеграм боты](https://github.com/OSINT-searcher/glaz_boga_besplatno)
+* ➡️[Аналоги Гетконтакт и поиск контактов и меток](https://github.com/OSINT-searcher/analogi_getcontact_dlya_poiska_kontaktov)
 
 Продукты предназначены для повышения качества жизни ОСИНТ-специалистов, работающих с поиском данных, криптой, и другими методами заработка.
