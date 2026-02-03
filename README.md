@@ -120,5 +120,6 @@
 * ➡️[Глаз Бога бесплатно и похожие Телеграм боты](https://github.com/OSINT-searcher/glaz_boga_besplatno)
 * ➡️[Аналоги Гетконтакт и поиск контактов и меток](https://github.com/OSINT-searcher/analogi_getcontact_dlya_poiska_kontaktov)
 * ➡️[Проверка на долги и задолженности](https://github.com/OSINT-searcher/proverka_dolgov_alimentov_i_kreditov)
+* ➡️[Проверка на фейки в соцсетях, ТГ и по фото](https://github.com/OSINT-searcher/proverka_na_feik)
 
 Продукты предназначены для повышения качества жизни ОСИНТ-специалистов, работающих с поиском данных, криптой, и другими методами заработка.
